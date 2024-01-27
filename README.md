@@ -1,17 +1,25 @@
-## Olá!!
+# Olá, mundo! 👋
 
-Sou Antonio André, acadêmico de Ciência da Computação/UFT e Análise e Desenvolvimento de Sistemas/FUNIP.
+Meu nome é Antonio André. Sou uma pessoa curiosa por natureza e gosto de conhecer e aprender novas tecnologias e, também, um leitor e um aterno apaixonado por sci-fi . 🚀
+
+Atualmente, estou cursando Ciência da Computação na UFT e Análise e Desenvolvimento de Sistemas na Faculdade Única. 🎓
+
+Trabalho no Setor de TI do Instituto Natureza do Tocantins, onde aplico meus conhecimentos para resolver problemas e contribuir para a minha equipe. 💼
+
+Estou sempre aberto a novas ideias e oportunidades. Vamos nos conectar!
+
+##
 
 <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=andrebarceloschagas&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
+  <source 
+    align="center" srcset="https://github-readme-stats.vercel.app/api?username=andrebarceloschagas&show_icons=true&theme=dark"
+    align="center" media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=andrebarceloschagas&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    align="center" srcset="https://github-readme-stats.vercel.app/api?username=andrebarceloschagas&show_icons=true"
+    align="center" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=andrebarceloschagas&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=andrebarceloschagas&show_icons=true" />
 </picture>
 
 ##
