@@ -10,17 +10,10 @@ Estou sempre aberto a novas ideias e oportunidades. Vamos nos conectar!
 
 ##
 
-<picture>
-  <source 
-    align="center" srcset="https://github-readme-stats.vercel.app/api?username=andrebarceloschagas&show_icons=true&theme=dark"
-    align="center" media="(prefers-color-scheme: dark)"
-  />
-  <source
-    align="center" srcset="https://github-readme-stats.vercel.app/api?username=andrebarceloschagas&show_icons=true"
-    align="center" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=andrebarceloschagas&show_icons=true" />
-</picture>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrebarceloschagas&layout=compact&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrebarceloschagas&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 ##
 
