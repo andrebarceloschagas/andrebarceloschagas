@@ -1,6 +1,6 @@
 # Olá, mundo! 👋
 
-Meu nome é Antonio André. Sou uma pessoa curiosa por natureza e gosto de conhecer e aprender novas tecnologias e, também, um leitor e um aterno apaixonado por sci-fi . 🚀
+Meu nome é Antonio André. Sou uma pessoa curiosa por natureza e gosto de conhecer e aprender novas tecnologias e, também, um leitor e um eterno apaixonado por sci-fi . 🚀
 
 Atualmente, estou cursando Ciência da Computação na UFT e Análise e Desenvolvimento de Sistemas na Faculdade Única. 🎓
 
