@@ -1,14 +1,19 @@
 # Olá, mundo! 👋
 
-Meu nome é Antonio André. Sou uma pessoa curiosa por natureza e gosto de conhecer e aprender novas tecnologias e, também, um leitor e um eterno apaixonado por sci-fi . 🚀
+Meu nome é **Antonio André**, uma pessoa naturalmente curiosa, sempre em busca de aprender novas tecnologias e apaixonado por ficção científica. 🚀
 
-Atualmente, estou cursando Ciência da Computação na UFT e Análise e Desenvolvimento de Sistemas na Faculdade Única. 🎓
+Atualmente, sou estudante de **Ciência da Computação** na UFT e graduado em **Análise e Desenvolvimento de Sistemas** pela Faculdade Única. 🎓
 
-Trabalho no Setor de TI do Instituto Natureza do Tocantins, onde aplico meus conhecimentos para resolver problemas e contribuir para a minha equipe. 💼
+Minhas áreas de interesse incluem:
+- 🐍 **Python** e desenvolvimento de software
+- 🖼️ **Processamento de Imagens**
+- 🧠 **Inteligência Artificial**
+- 🖥️ **Sistemas Operacionais**
+- 🎨 **Modelagem 3D**
 
-Estou sempre aberto a novas ideias e oportunidades. Vamos nos conectar!
+Estou à procura de novas oportunidades no mercado de trabalho! 💼
 
-##
+Sou uma pessoa aberta a novas ideias e desafios. Vamos nos conectar? 😄
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=andrebarceloschagas&locale=pt-br&show_icons=true&include_all_commits=true&count_private=true&card_width=400&bg_color=121b22&theme=transparent&title_color=00A884&text_color=FFFFFF" alt="André's GitHub Stats" />
@@ -18,9 +23,6 @@ Estou sempre aberto a novas ideias e oportunidades. Vamos nos conectar!
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=andrebarceloschagas&layout=compact&bg_color=121b22&title_color=00A884&text_color=FFFFFF" alt="WakaTime Stats" />
 </div>
-
-
-##
 
 <div align="center"> 
   <a href="https://www.youtube.com/@antonioandrebarceloschagas7078/featured" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
